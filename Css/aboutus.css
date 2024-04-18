@@ -1,0 +1,16 @@
+* {
+    width: auto;
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+    font-family: "Playfair Display", serif;
+}
+.about-page{
+    margin-top: 5%  ;
+}
+.abtimg{
+    transition: transform 0.3s ease-in-out;
+}
+.abtimg:hover{
+    transform: scale(1.1);
+}
