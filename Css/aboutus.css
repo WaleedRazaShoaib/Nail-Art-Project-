@@ -14,3 +14,19 @@
 .abtimg:hover{
     transform: scale(1.1);
 }
+
+.about-btn {
+    background-color: black !important;
+    padding: 20px 30px ;
+}
+
+
+.about-btn:hover {
+    background-color: #911439;
+}
+
+.about-btn a {
+    font-size: 20px;
+    color: white;
+    text-decoration: none;
+}
