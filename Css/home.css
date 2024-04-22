@@ -331,7 +331,19 @@ img {
     background-color: #222222;
     height: 50px;
     width: 150px;
+    font-size: 20px;
     text-align: center;
+    line-height: 50px;
+}
+.about-btn:hover{
+    background-color: #911439;
+}
+.abtspn{
+    color: white;
+    
+}
+.about-btn a{
+    text-decoration: none;
 }
 
 @media (max-width: 768px) {
