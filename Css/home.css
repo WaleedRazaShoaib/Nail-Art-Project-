@@ -327,6 +327,12 @@ img {
     font-family: "Open Sans", sans-serif !important;
 
 }
+.about-btn{
+    background-color: #222222;
+    height: 50px;
+    width: 150px;
+    text-align: center;
+}
 
 @media (max-width: 768px) {
     .navbar {
