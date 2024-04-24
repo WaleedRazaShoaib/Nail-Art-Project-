@@ -1,0 +1,54 @@
+* {
+    width: auto;
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+    font-family: "Playfair Display", serif;
+}
+
+.serdiv {
+    justify-content: space-around !important;
+}
+
+.price-box-wrapper {
+    text-align: center;
+    background-color: #FFF1EF !important;
+    transition: transform 0.3s ease-in-out;
+}
+
+.price-box-wrapper:hover {
+    transform: scale(1.1);
+}
+
+.texst {
+    margin-top: 40px;
+    text-align: center;
+}
+
+.texst h3 {
+    font-size: 35px;
+}
+
+.pricediv {
+    background-color: #EFCEC9;
+}
+
+ul li {
+    list-style: none;
+    text-align: start;
+}
+
+.book-btn {
+    background-color: black;
+    padding: 20px 30px;
+}
+
+.book-btn:hover {
+    background-color: #911439;
+}
+
+.book-btn a {
+    font-size: 20px;
+    color: white;
+    text-decoration: none;
+}
