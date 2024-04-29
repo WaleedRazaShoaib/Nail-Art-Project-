@@ -32,10 +32,10 @@ function validation() {
 
     // Check if name is valid
     if (checkname.test(n)) {
-        
-          
+
+
     } else {
-         document.getElementById("errorname").innerHTML = "Invalid name";
+        document.getElementById("errorname").innerHTML = "Invalid name";
         Swal.fire({
             icon: "error",
             title: "Oops...",
@@ -80,55 +80,20 @@ function validation() {
 }
 
 
-document.getElementById("navbar").innerHTML = `
-<nav class="navbar navbar-expand-lg navbar-light bg-light">
-<div class="container-fluid divNavbar">
-    <a class="navbar-brand" href="#">
-        <img src="images/logo.webp" alt="Nail Art" id="logo">
-    </a>
-    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarText"
-        aria-controls="navbarText" aria-expanded="false" aria-label="Toggle navigation">
-        <span class="navbar-toggler-icon"></span>
-    </button>
-    <div class="container-fluid maindiv">
-        <div class="collapse navbar-collapse" id="navbarText">
-            <ul class="navbar-nav me-auto mb-2 mb-lg-0">
-                <li class="nav-item">
-                    <a class="nav-link active" aria-current="page" href="#">Home</a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link" href="#">Gallery</a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link" href="./services.html">Services </a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link" href="./AboutUs.html">About Us </a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link" href="./contactUs.html">Contact Us </a>
-                </li>
-            </ul>
+// document.getElementById("navbar").innerHTML = `
 
-            <button id="navbutt"><span class="btn">Get An Appointment</span></button>
-
-        </div>
-    </div>
-</div>
-</nav>`
-
-document.addEventListener("DOMContentLoaded",function()
-{
-let navlinks=  document.querySelectorAll("#navbar .nav-link");
-let currentpage =   window.location.pathname.split('/').pop();
-//loop
-navlinks.forEach(function(link){
-    //remove active class
-    link.classList.remove("active");
-    if(link.getAttribute('href')=== currentpage){
-        link.classList.add("active");
-    }
-});
+            
+document.addEventListener("DOMContentLoaded", function () {
+    let navlinks = document.querySelectorAll("#navbar .nav-link");
+    let currentpage = window.location.pathname.split('/').pop();
+    //loop
+    navlinks.forEach(function (link) {
+        //remove active class
+        link.classList.remove("active");
+        if (link.getAttribute('href') === currentpage) {
+            link.classList.add("active");
+        }
+    });
 
 
 })
