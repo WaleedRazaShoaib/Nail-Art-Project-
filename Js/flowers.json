@@ -1,0 +1,57 @@
+{
+    "products": [
+      {
+        "img": "./images/flowers 1.jpg",
+        "description": "Teenitor Short Oval Press On Nails With Designs"
+      },
+      {
+        "img": "/images/flowers 2.jpg",
+        "description": "Nails Green Marble Press On Nails Cute Designs Glue On"
+      },
+      {
+        "img": "/images/flowers 3.jpg",
+        "description": "Nails, 24pcs Reusable Short Acrylic Fake Nails with Glue,"
+      },
+      {
+        "img": "/images/flowers 4.jpg",
+        "description": "Some quick example text to build on the card title and make up the bulk of the card's content."
+      }
+      ,
+      {
+        "img": "./images/flowers 5.jpg",
+        "description": "Some quick example text to build on the card title and make up the bulk of the card's content."
+      },
+      {
+        "img": "/images/flowers 6.jpg",
+        "description": "Some quick example text to build on the card title and make up the bulk of the card's content."
+      },
+      {
+        "img": "/images/flowers 7.jpg",
+        "description": "Some quick example text to build on the card title and make up the bulk of the card's content."
+      },
+      {
+        "img": "/images/flowers 8.jpg",
+        "description": "Some quick example text to build on the card title and make up the bulk of the card's content."
+      }
+      ,
+      {
+        "img": "/images/flowers 9.jpg",
+        "description": "Some quick example text to build on the card title and make up the bulk of the card's content."
+      },
+      {
+        "img": "/images/flowers 10.jpg",
+        "description": "Some quick example text to build on the card title and make up the bulk of the card's content."
+      },
+      {
+        "img": "/images/flowers 11.jpg",
+        "description": "Some quick example text to build on the card title and make up the bulk of the card's content."
+      },
+      {
+        "img": "/images/flowers 13.jpg",
+        "description": "Some quick example text to build on the card title and make up the bulk of the card's content."
+      }
+
+
+    ]
+  }
+  
