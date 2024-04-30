@@ -6,7 +6,10 @@
     font-family: "Playfair Display", serif;
 }
 
-
+.image-container img{
+    height: 35%;
+    object-fit: cover;
+}
 .serdiv {
     justify-content: space-around !important;
 }

@@ -1,0 +1,67 @@
+{
+    "products": [
+      {
+        "img": "./images/acessory 1.jpg",
+        "name":"Lakme",
+        "description": " You can buy variety of colors from its ranges like Nine To Five or Color Crush. These are priced from 160 to 250 PKR depending on the variant you are buying."
+      },
+      {
+        "img": "./images/acessory 2.jpg",
+        "name":"Konad",
+        "description": " You can buy their round shaped bottles for quite a high price like Shining Deep Green or Club Pink for 10 ml bottles at PKR INR to 199 PKR."
+      },
+      {
+        "img": "./images/acessory 3.jpg",
+        "name":"Lotus Herbals",
+        "description": " You can buy their popular colors like Gold Mist, Plum Shine and Mint Magic which  bottles prices which are very affordable at 120 to 150 PKR."
+      },
+      {
+        "img": "./images/acessory 4.jpg",
+        "name":"Maybelline:",
+        "description": " You can buy various hues like Dazzling Diva  for prices 160 to 170 PKR. The lasting effect is also good and you can try these out easily."
+      },
+      {
+        "img": "./images/acessory 5.jpg",
+        "name":"Street Wear",
+        "description": "You can buy their various  colors like Grape Shimmer or Oceanic blue for prices from 9ml bottles to 60 PKR for 5ml bottles."
+      },
+      {
+        "img": "./images/acessory 6.jpg",
+        "name":"Avon",
+        "description": "You can buy their colors easily because these are cheap.It also has speed dry range which can cost from 200 to 300 PKR."
+      },
+      {
+        "img": "./images/acessory 7.jpg",
+        "name":"Oriflame",
+        "description": "You can buy their variants like the Pure Color Range or the Metallic Range for a minimum price  it can go up to 400 PKR"
+      },
+      {
+        "img": "./images/acessory 8.jpg",
+        "name":"China Glaze",
+        "description": "    if you are looking for long lasting tint then you can try out  colors for 700 to 2000  depending on the variant that you want to buy."
+      },
+      {
+        "img": "./images/acessory 9.jpg",
+        "name":"OPI ",
+        "description": "You can buy their various variants like  Neon, glittery or matte effect colors for a minimum price of 700 to 800 PKR for 15 ml bottles."
+      },
+      {
+        "img": "./images/acessory 10.jpg",
+        "name":"Colorbar",
+        "description": " Exclusive numbers 56 and 44 along with Fearless Red are very popular. You can buy these for 210 to 300 PKR for 9ml bottles."
+      },
+      {
+        "img": "./images/acessory 11.jpg",
+        "name":"Viviana",
+        "description": " They also offer value packs of 4 or 5 colors and you can buy those for 250 INR. These are cheap and the colors have good lasting."
+      },
+      {
+        "img": "./images/acessory 12.jpg",
+        "name":"Loreal Paris",
+        "description": " There are normal colors as well like Beige Boheme and Versailles  the  range of Color Riche hues and these come for  500 PKR."
+      }
+
+
+    ]
+  }
+  

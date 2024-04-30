@@ -2,53 +2,65 @@
     "products": [
       {
         "img": "./images/faces 1.jfif",
-        "description": "Teenitor Short Oval Press On Nails With Designs"
+        "name":"CND shellac NEW shade",
+        "description": "Simple and elegent line nail art over CND shellac NEW shade 'Gala Girl' for a fabolous girl birthday gift  "
       },
       {
         "img": "/images/faces 2.jfif",
-        "description": "Nails Green Marble Press On Nails Cute Designs Glue On"
+        "name":"Classy Modern French",
+        "description": "Classy Modern French nails offer a sophisticated twist to the timeless French manicure.They elevate your look refinement."
       },
       {
         "img": "/images/faces 3.jpg",
-        "description": "Nails, 24pcs Reusable Short Acrylic Fake Nails with Glue,"
+        "name":"Whimsical Nails",
+        "description": "Experience the whimsical magic of nail art infused with the charm of Totoro. Let Totoro bring a dash of joy and enchantment to your fingertips."
       },
       {
-        "img": "/images/faces 4.jpg",
-        "description": "Some quick example text to build on the card title and make up the bulk of the card's content."
+        "img": "/images/faces 5.jpg",
+        "name":"Summers Nails",
+        "description": "Summer's nail designs evoke the essence of the season with vibrant hues, tropical motifs, and refreshing styles."
       }
       ,
       {
-        "img": "./images/faces 5.jpg",
-        "description": "Some quick example text to build on the card title and make up the bulk of the card's content."
+        "img": "./images/faces 6.jpg",
+        "name":"Celestial Nails",
+        "description": "Celestial nails transport you to the cosmos with their ethereal beauty. Inspired by the wonders of the universe."
       },
       {
-        "img": "/images/faces 6.jpg",
-        "description": "Some quick example text to build on the card title and make up the bulk of the card's content."
+        "img": "/images/faces 4.jpg",
+        "name":"Party Halloween",
+        "description": "Halloween party nails are the ultimate accessory for spooky celebrations. From eerie pumpkins to haunting ghosts."
       },
       {
         "img": "/images/faces 7.jpg",
-        "description": "Some quick example text to build on the card title and make up the bulk of the card's content."
+        "name":"Easter Nails",
+        "description": "Easter nails bring the joy of spring to your fingertips with vibrant colors and playful designs. From adorable bunnies to colorful eggs."
       },
       {
         "img": "/images/faces 8.jpg",
-        "description": "Some quick example text to build on the card title and make up the bulk of the card's content."
+        "name":"Acrylic Nails",
+        "description": "Acrylic nails offer a durable and versatile option for enhancing your natural nails. Whether you desire length, artistic expression."
       }
       ,
       {
         "img": "/images/faces 9.jpg",
-        "description": "Some quick example text to build on the card title and make up the bulk of the card's content."
+        "name":"Hockey Nails Wrap",
+        "description": "Hockey nail wraps are the perfect accessory for passionate fans of the sport. Featuring iconic hockey motifs and team logos."
       },
       {
         "img": "/images/faces 10.webp",
-        "description": "Some quick example text to build on the card title and make up the bulk of the card's content."
+        "name":"Smiley Wavy faces",
+        "description": "Smiley Wavy Faces nails add a fun and cheerful vibe to your manicure. With whimsical designs featuring smiling faces and playful waves."
       },
       {
         "img": "/images/faces 11.jpg",
-        "description": "Some quick example text to build on the card title and make up the bulk of the card's content."
+        "name":"Cartoon Anime Nails",
+        "description": "Cartoon Anime Nails bring your favorite animated characters to life on your fingertips. From beloved classics to trendy anime series."
       },
       {
         "img": "/images/faces 12.jpg",
-        "description": "Some quick example text to build on the card title and make up the bulk of the card's content."
+        "name":"Fun Smiley Faces",
+        "description": "Fun Smiley Faces nails are all about spreading joy and positivity with every glance. Featuring cute and colorful smiley face designs."
       }
 
 

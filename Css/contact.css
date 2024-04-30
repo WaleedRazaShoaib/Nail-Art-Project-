@@ -37,13 +37,15 @@ h1 {
     color: black;
 }
 
-
-.image-container {
+.image-container{
     position: relative;
     width: 100%;
     max-width: 100%;
 }
-
+.mainpic{
+    height: 50vh !important;
+    object-fit: cover;
+}
 .form-control {
     border: 0px;
     border-radius: 0px;

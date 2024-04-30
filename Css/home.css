@@ -2,7 +2,7 @@
     margin: 0%;
     padding: 0%;
     box-sizing: border-box;
-    
+
 }
 
 .navbar {
@@ -16,6 +16,7 @@
 #logo {
     margin-left: 40px;
     height: 40px;
+    width: 100%;
 }
 
 .collapse {
@@ -29,9 +30,15 @@
     z-index: 1;
     padding-left: 0% !important;
     padding-right: 0% !important;
+    /* margin-left: 100px; */
+
 }
 
-.dropdown-menu{
+.navbar-nav {
+    margin-left: 40px;
+}
+
+.dropdown-menu {
     background-color: #EFCEC9;
     border: 0;
 }
@@ -48,25 +55,11 @@
 }
 
 .nav-item a {
-    padding: 20px !important;
+    padding: 25px !important;
     font-size: 19px !important;
 }
 
-#navbutt {
-    margin-bottom: 20px;
-    margin-right: 10px;
-    border-radius: 5px;
-    color: #ffff !important;
-    height: 40px;
-    border: none;
-    cursor: pointer;
-    transition: background-color 0.3s ease;
-}
 
-#navbutt:hover {
-    background-color: #911439;
-
-}
 
 .btn {
     background-color: black;
@@ -239,7 +232,6 @@ h1 {
 
 .firsthead {
     font-size: 36px;
-    color: white;
     font-family: "Playfair Display", serif;
 
 }
@@ -248,20 +240,23 @@ h1 {
     font-size: 36px;
 }
 
-.servicesec{
-padding-top: 30px;
+.infosec {
     background-color: black;
+}
+
+.servicesec {
+    padding-top: 30px;
+    background-color: white;
     padding-bottom: 20px;
 }
 
-.secdiv {
-    margin-left: 5%;
-    padding-top: 50px;
+.firstper {
+    color: white;
 }
 
 .firstpera {
     letter-spacing: 1px;
-    color: white;
+    color: black;
 }
 
 .btnser {
@@ -270,7 +265,6 @@ padding-top: 30px;
     margin-left: 10%;
     margin-top: 25%;
     border: 0px;
-    color: white;
     height: 40px;
     width: 120px;
     transition: background-color 0.3s ease-in-out;
@@ -325,40 +319,107 @@ img {
 }
 
 
-.aboutsection{
-    font-family: "Playfair Display",serif;
+.aboutsection {
+    font-family: "Playfair Display", serif;
+
 }
 
-.aboutpera{
+.aboutpera {
     font-family: "Open Sans", sans-serif !important;
-font-size: 20px;
+    font-size: 20px;
+    color: white;
 }
-.about-btn{
+
+.about-btn {
     background-color: #222222;
+    border-radius: 5px;
     height: 50px;
     width: 150px;
     font-size: 20px;
     text-align: center;
     line-height: 50px;
 }
-.about-btn:hover{
+
+.about-btn:hover {
     background-color: #911439;
 }
-.abtspn{
+
+.abtspn {
     color: white;
 }
-.about-btn a{
+
+.about-btn a {
     text-decoration: none;
 }
 
 
 
-.gellary-wrapper {
+.gellary {
+    margin-top: 50px;
     background-color: #efcec9;
-    padding: 100px 0 200px 0;
+    padding: 50px 0 100px 0;
     text-align: center;
+    font-family: "Playfair Display", serif;
 }
 
+.footer-wrapper {
+    color: white;
+    font-family: "Open Sans", sans-serif;
+
+}
+
+
+
+.footerlog{
+vertical-align: middle;
+height: 8vh;
+}
+.footer-link-wrapper{
+    margin-left:80px ;
+}
+
+.unorderfoter{ 
+    list-style: none;
+    margin-left: 0% !important;
+    padding-left: 0% !important;
+}
+.unorderfoter li {
+    padding: 15px 0px 0px 0px;
+}
+
+.unorderfoter li a {
+text-decoration: none;
+color: white !important;
+}
+
+.footer-icon ul{
+    list-style: none;
+    padding-left: 0%;
+}
+
+
+.footer-icon ul li{
+    padding: 10px;
+border: 1px solid white;
+border-radius: 55%;
+}
+.footer-icon ul li a{
+color: white !important;
+}
+.footer-contact ul li{
+    list-style: none;
+    padding-top: 10px;
+}
+
+.footer-contact ul{
+    padding-left: 0%;
+}
+
+.address-content a{
+    padding-top: 20px !important;
+    text-decoration: none;
+    color: white !important;
+}
 
 
 
@@ -440,4 +501,3 @@ font-size: 20px;
         font-size: 15px;
     }
 }
-

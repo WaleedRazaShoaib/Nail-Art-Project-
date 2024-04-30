@@ -7,6 +7,7 @@ document.addEventListener("DOMContentLoaded", function() {
             html += `
                 <div class="col-md-3 mb-4 col-12 justify-content-between">
                     <div class="card">
+                    <hr>
                         <img class="card-img-top p-3 " src="${abcproduct.img}" alt="Card image cap">
                         <div class="card-body">
                             <p class="card-text">${abcproduct.description}</p>
