@@ -10,6 +10,7 @@ document.addEventListener("DOMContentLoaded", function() {
                         <img class="card-img-top p-3 " src="${abcproduct.img}" alt="Card image cap">
                         <hr>
                         <div class="card-body">
+                        <h5 class="card-title firsttext fs-2">${abcproduct.name}</h5>
                             <p class="card-text">${abcproduct.description}</p>
                         </div>
                     </div>

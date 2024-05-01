@@ -84,7 +84,7 @@ function validation() {
 
             
 document.addEventListener("DOMContentLoaded", function () {
-    let navlinks = document.querySelectorAll("#navbar .nav-link");
+    let navlinks = document.querySelectorAll("#footer .nav-link");
     let currentpage = window.location.pathname.split('/').pop();
     //loop
     navlinks.forEach(function (link) {

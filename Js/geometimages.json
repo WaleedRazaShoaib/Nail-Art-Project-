@@ -2,53 +2,65 @@
     "products": [
       {
         "img": "./images/geomet 9.jpg",
-        "description": "Teenitor Short Oval Press On Nails With Designs"
+        "name":"Matte Blue Nails",
+        "description": "Matte blue nails offer a chic and modern twist on classic blue hues, boasting a velvety finish that exudes sophistication and style."
       },
       {
         "img": "/images/geomet 8.jpg",
-        "description": "Nails Green Marble Press On Nails Cute Designs Glue On"
+        "name":"Royals Purples Nails",
+        "description": "Make a majestic statement with royal purple nails, channeling strength and grace with every impeccably polished fingertip."
       },
       {
         "img": "/images/geomet 3.jpg",
-        "description": "Nails, 24pcs Reusable Short Acrylic Fake Nails with Glue,"
+        "name":"Febuary Nails",
+        "description": "February nails capture the essence of romance and warmth, with soft hues and delicate designs reflecting the season of love."
       },
       {
         "img": "/images/geomet 6.jpg",
-        "description": "Some quick example text to build on the card title and make up the bulk of the card's content."
+        "name":"Abstract Pinks Nails",
+        "description": "Abstract pink nails redefine femininity with avant-garde flair, blending soft hues and abstract patterns for a captivating manicure."
       }
       ,
       {
         "img": "./images/geomet 5.jpg",
-        "description": "Some quick example text to build on the card title and make up the bulk of the card's content."
+        "name":"Geometric Ombre Nails",
+        "description": "Geometric ombre nails offer a modern twist to classic ombre designs, incorporating sleek lines  for a contemporary edge   "
       },
       {
         "img": "/images/geomet 14.jpg",
-        "description": "Some quick example text to build on the card title and make up the bulk of the card's content."
+        "name":"Checkmate Color Nails",
+        "description": "Checkmate nails are the epitome of chic sophistication, featuring intricate checkerboard patterns that exude a timeless charm."
       },
       {
         "img": "/images/geomet 2.jpg",
-        "description": "Some quick example text to build on the card title and make up the bulk of the card's content."
+        "name":"Bright Blue Nails ",
+        "description": "Bright blue nails exude a captivating charm, adding a pop of vibrant color to your fingertips and brightening gorgious in  any look."
       },
       {
         "img": "/images/geomet 1.jpg",
-        "description": "Some quick example text to build on the card title and make up the bulk of the card's content."
+        "name":"Yagala Nails ",
+        "description": "Yagala nails bring forth a fusion of elegance and innovation, transforming your nails into exquisite works of art."
       }
       ,
       {
         "img": "/images/geomet 7.jpg",
-        "description": "Some quick example text to build on the card title and make up the bulk of the card's content."
+        "name":"Trans Pride Nails",
+        "description": " Trains pride nails celebrate the vibrant diversity of the bold colors and symbolic designs, embodying strength, unity, and resilience.."
       },
       {
         "img": "/images/geomet 10.jpg",
-        "description": "Some quick example text to build on the card title and make up the bulk of the card's content."
+        "name":"Manifest Blue Nails",
+        "description": "Manifest blue nails channel the power of intention and self-expression, infusing each stroke with purpose and meaning."
       },
       {
         "img": "/images/geomet 11.jpg",
-        "description": "Some quick example text to build on the card title and make up the bulk of the card's content."
+        "name":"Stuning Orange Nails",
+        "description": "Stunning orange nails radiate warmth and vibrancy, capturing attention with their bold and energetic hue."
       },
       {
         "img": "/images/geomet 12.jpg",
-        "description": "Some quick example text to build on the card title and make up the bulk of the card's content."
+        "name":"Orange Curve Nails",
+        "description": "Orange curve nails combine sleek design with a vibrant pop of color, featuring curved accents that add a modern twist to your manicure."
       }
 
 

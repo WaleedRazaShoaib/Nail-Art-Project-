@@ -57,3 +57,61 @@
 .card:hover {
     border: #911439 solid 2px;
 }
+.footer-wrapper {
+    color: white;
+    font-family: "Open Sans", sans-serif;
+
+}
+
+
+
+.footerlog{
+vertical-align: middle;
+height: 8vh;
+}
+.footer-link-wrapper{
+    margin-left:80px ;
+}
+
+.unorderfoter{ 
+    list-style: none;
+    margin-left: 0% !important;
+    padding-left: 0% !important;
+}
+.unorderfoter li {
+    padding: 15px 0px 0px 0px;
+}
+
+.unorderfoter li a {
+text-decoration: none;
+color: white !important;
+}
+
+.footer-icon ul{
+    list-style: none;
+    padding-left: 0%;
+}
+
+
+.footer-icon ul li{
+    padding: 10px;
+border: 1px solid white;
+border-radius: 55%;
+}
+.footer-icon ul li a{
+color: white !important;
+}
+.footer-contact ul li{
+    list-style: none;
+    padding-top: 10px;
+}
+
+.footer-contact ul{
+    padding-left: 0%;
+}
+
+.address-content a{
+    padding-top: 20px !important;
+    text-decoration: none;
+    color: white !important;
+}

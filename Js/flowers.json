@@ -2,53 +2,65 @@
     "products": [
       {
         "img": "./images/flowers 1.jpg",
-        "description": "Teenitor Short Oval Press On Nails With Designs"
+        "name":"Blush Burst",
+        "description": "Vibrant explosion of pink sticker bomb nail art, adding a pop of playful elegance to your fingertips."
       },
       {
         "img": "/images/flowers 2.jpg",
-        "description": "Nails Green Marble Press On Nails Cute Designs Glue On"
+        "name":"Evergreen Canopy",
+        "description":"Adorn your nails with a serene forest scene, featuring intricate green tree nail art for a touch of natural tranquility"
       },
       {
         "img": "/images/flowers 3.jpg",
-        "description": "Nails, 24pcs Reusable Short Acrylic Fake Nails with Glue,"
+        "name":"Frosty Petals",
+        "description":"Grace your nails with delicate white flower nail art, evoking the purity and elegance of freshly fallen snow"
       },
       {
         "img": "/images/flowers 4.jpg",
-        "description": "A cheerful, nature-inspired design to brighten any day."
+        "name":"Sunny Bloom",
+        "description": "Illuminate your nails with radiant sunflower nail art, capturing the warmth and beauty of a summer day.."
       }
       ,
       {
         "img": "./images/flowers 5.jpg",
-        "description": "Some quick example text to build on the card title and make up the bulk of the card's content."
+        "name":"Petal Pop",
+        "description":"Embrace delicate charm with mini flower nail art, adding a whimsical touch of nature to your fingertips."
       },
       {
         "img": "/images/flowers 6.jpg",
-        "description": "Some quick example text to build on the card title and make up the bulk of the card's content."
+        "name":"Peachi Perfection",
+        "description":"Adorn your nails with the sweet allure of Peachi nail art, capturing the soft hues and irresistible charm of ripe peaches."
       },
       {
         "img": "/images/flowers 7.jpg",
-        "description": "Some quick example text to build on the card title and make up the bulk of the card's content."
+        "name":"Spring Fling",
+        "description": "Elevate your style with Top Spring nail art, boasting fresh colors and playful patterns reminiscent of a blossoming garden."
       },
       {
         "img": "/images/flowers 8.jpg",
-        "description": "Some quick example text to build on the card title and make up the bulk of the card's content."
+        "name":"Rustic Reverie",
+        "description":"Embrace the untamed beauty of the countryside with Country Wild nail art, featuring earthy tones and whimsical motifs for a touch of rural charm."
       }
       ,
       {
         "img": "/images/flowers 9.jpg",
-        "description": "Some quick example text to build on the card title and make up the bulk of the card's content."
+        "name":"Sparkle Blossom",
+        "description":"lluminate your nails with Glitter Flower nail art, combining dazzling glitter accents with delicate floral designs for a stunning and radiant manicure."
       },
       {
         "img": "/images/flowers 10.jpg",
-        "description": "Some quick example text to build on the card title and make up the bulk of the card's content."
+        "name":"Petal Blush",
+        "description":"Adorn your nails with Pink Flower nail art, showcasing delicate petals in shades of pink for a blooming touch of elegance."
       },
       {
         "img": "/images/flowers 11.jpg",
-        "description": "Some quick example text to build on the card title and make up the bulk of the card's content."
+        "name":"Almond Elegance",
+        "description": "Embrace sophistication with Almond Shape nail art, featuring sleek and tapered nails adorned with intricate designs for a timeless and chic look."
       },
       {
         "img": "/images/flowers 13.jpg",
-        "description": "Some quick example text to build on the card title and make up the bulk of the card's content."
+        "name":"Maven Mosaic",
+        "description":"Dive into creativity with Robin Moses nail art, blending intricate patterns and vibrant colors for a mesmerizing and unique manicure masterpiece."
       }
 
 

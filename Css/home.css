@@ -42,6 +42,9 @@
     background-color: #EFCEC9;
     border: 0;
 }
+.dropdown-menu li a:active{
+    background-color:#911439 ;
+}
 
 .divNavbar {
     padding-left: 0% !important;

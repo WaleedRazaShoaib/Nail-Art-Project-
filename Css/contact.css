@@ -24,8 +24,9 @@
     justify-content: space-between !important;
 }
 
-.informatsection {
+.infosec {
     justify-content: center;
+    background-color: white !important;
 }
 
 
@@ -176,3 +177,4 @@ h2 {
 
     }
 }
+
