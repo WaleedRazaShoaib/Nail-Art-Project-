@@ -42,8 +42,9 @@
     background-color: #EFCEC9;
     border: 0;
 }
-.dropdown-menu li a:active{
-    background-color:#911439 ;
+
+.dropdown-menu li a:active {
+    background-color: #911439;
 }
 
 .divNavbar {
@@ -236,6 +237,12 @@ h1 {
 .firsthead {
     font-size: 36px;
     font-family: "Playfair Display", serif;
+    color: white !important;
+}
+
+.firstheads {
+    font-size: 36px;
+    font-family: "Playfair Display", serif;
 
 }
 
@@ -255,7 +262,13 @@ h1 {
 
 .firstper {
     color: white;
+    letter-spacing: 2px;
 }
+.firstper2 {
+    color: white;
+    letter-spacing: 3px;
+}
+
 
 .firstpera {
     letter-spacing: 1px;
@@ -373,53 +386,56 @@ img {
 
 
 
-.footerlog{
-vertical-align: middle;
-height: 8vh;
-}
-.footer-link-wrapper{
-    margin-left:80px ;
+.footerlog {
+    vertical-align: middle;
+    height: 8vh;
 }
 
-.unorderfoter{ 
+.footer-link-wrapper {
+    margin-left: 80px;
+}
+
+.unorderfoter {
     list-style: none;
     margin-left: 0% !important;
     padding-left: 0% !important;
 }
+
 .unorderfoter li {
     padding: 15px 0px 0px 0px;
 }
 
 .unorderfoter li a {
-text-decoration: none;
-color: white !important;
+    text-decoration: none;
+    color: white !important;
 }
 
-.footer-icon ul{
+.footer-icon ul {
     list-style: none;
     padding-left: 0%;
 }
 
 
-.footer-icon ul li{
-    padding: 10px;
-border: 1px solid white;
-border-radius: 55%;
-}
-.footer-icon ul li a{
-color: white !important;
-}
-.footer-contact ul li{
-    list-style: none;
-    padding-top: 10px;
+.footer-icon ul li {
+    padding: 7px 10px 7px 10px;
+    border: 1px solid white;
+    border-radius: 50%;
 }
 
-.footer-contact ul{
+.footer-icon ul li a {
+    color: white !important;
+}
+
+.footer-contact ul li {
+    list-style: none;
+}
+
+.footer-contact ul {
     padding-left: 0%;
 }
 
-.address-content a{
-    padding-top: 20px !important;
+.address-content a {
+    padding-top: 0px !important;
     text-decoration: none;
     color: white !important;
 }

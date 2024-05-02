@@ -17,6 +17,7 @@
 }
 .aboutpera{
     font-size: large;
+    color: black !important;
 }
 .abtimg {
     transition: transform 0.3s ease-in-out;
@@ -58,7 +59,7 @@
 }
 .picabt {
     padding-top: 40px;
-    height: 50vh;
+    height: 60vh;
     transition: transform 0.3s ease-in-out;
     object-fit: cover;
     width: 100%;

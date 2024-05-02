@@ -20,8 +20,8 @@
     box-shadow: #EFCEC9 0px 30px 60px -12px inset, rgba(0, 0, 0, 0.3) 0px 18px 36px -18px inset;
 }
 
-.informatsec {
-    justify-content: space-between !important;
+.informatsection {
+    justify-content: center !important;
 }
 
 .infosec {
@@ -29,9 +29,13 @@
     background-color: white !important;
 }
 
+.box p{
+    font-size: 25px;
+
+}
 
 p {
-    font-size: 25px;
+    font-size: 20px;
 }
 
 h1 {
