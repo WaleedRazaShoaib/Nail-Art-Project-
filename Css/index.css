@@ -474,7 +474,9 @@ img {
     .navbar {
         height: 80px;
     }
-
+    .px-5 {
+        padding-left: 0 !important;
+    }
     #logo {
         margin-left: 10px;
         height: 70px;

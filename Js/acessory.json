@@ -4,6 +4,7 @@
         "img": "./images/acessory 1.jpg",
         "name":"Lakme",
         "description": " You can buy variety of colors from its ranges like Nine To Five or Color Crush. These are priced from 160 to 250 PKR depending on the variant you are buying."
+           , "btn":"" 
       },
       {
         "img": "./images/acessory 2.jpg",

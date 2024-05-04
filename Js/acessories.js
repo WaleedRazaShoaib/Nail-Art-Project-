@@ -12,6 +12,7 @@ document.addEventListener("DOMContentLoaded", function() {
                         <div class="card-body">
                         <h5 class="card-title firsttext fs-2">${abcproduct.name}</h5>
                             <p class="card-text">${abcproduct.description}</p>
+                            <a href="${abcproduct.btn}">add to cart</a>
                         </div>
                     </div>
                 </div>`;
