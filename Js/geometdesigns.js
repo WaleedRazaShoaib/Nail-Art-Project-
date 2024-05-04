@@ -12,11 +12,13 @@ document.addEventListener("DOMContentLoaded", function() {
                         <div class="card-body">
                         <h5 class="card-title firsttext fs-2">${abcproduct.name}</h5>
                             <p class="card-text">${abcproduct.description}</p>
+                            <a  class="addtocart">Add to Cart</a>
+
                         </div>
                     </div>
                 </div>`;
         });
-        document.querySelector(".desrows").innerHTML = html;
+        document.getElementById("desrows").innerHTML = html;
       })
       .catch(error => console.error("Error fetching images.json:", error));
 });

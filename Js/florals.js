@@ -1,4 +1,4 @@
-document.addEventListener("DOMContentLoaded", function() {
+function domContentLoaded() {
     fetch("js/florals.json")
       .then(response => response.json())
       .then(result => {
@@ -12,11 +12,14 @@ document.addEventListener("DOMContentLoaded", function() {
                         <div class="card-body">
                         <h5 class="card-title fs-3 firsttext">${abcproduct.name}</h5>
                             <p class="card-text">${abcproduct.description}</p>
+                            <a  class="addtocart">Add to Cart</a>
+
                         </div>
                     </div>
                 </div>`;
         });
-        document.querySelector(".desrows").innerHTML = html;
+        document.getElementById("desrows").innerHTML = html;
       })
       .catch(error => console.error("Error fetching images.json:", error));
-});
+}
+domContentLoaded();

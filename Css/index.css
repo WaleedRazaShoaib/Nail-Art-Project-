@@ -430,6 +430,25 @@ img {
 
 
 
+.addtocart {
+    display: inline-block;
+    color: #fff;
+    padding: 0.5rem 1rem;
+    border-radius: 5px;
+    background-color: #911439;
+    text-decoration: none;
+    transition: background-color 0.3s ease;
+}
+
+.addtocart:hover {
+    background-color: black;
+    color: #fff;
+}
+
+
+
+
+
 @media (max-width: 768px) {
     .navbar {
         height: 80px;
