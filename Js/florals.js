@@ -1,5 +1,5 @@
-function domContentLoaded() {
-    fetch("js/florals.json")
+function floraldata() {
+    fetch("http://127.0.0.1:5500/js/florals.json")
       .then(response => response.json())
       .then(result => {
         let html = '';
@@ -22,4 +22,5 @@ function domContentLoaded() {
       })
       .catch(error => console.error("Error fetching images.json:", error));
 }
-domContentLoaded();
+
+floraldata();

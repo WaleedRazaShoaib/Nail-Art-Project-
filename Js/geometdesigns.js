@@ -1,5 +1,5 @@
-document.addEventListener("DOMContentLoaded", function() {
-    fetch("js/geometimages.json")
+ function  shapesdata() {
+    fetch("http://127.0.0.1:5500/js/geometimages.json")
       .then(response => response.json())
       .then(result => {
         let html = '';
@@ -21,5 +21,8 @@ document.addEventListener("DOMContentLoaded", function() {
         document.getElementById("desrows").innerHTML = html;
       })
       .catch(error => console.error("Error fetching images.json:", error));
-});
+};
+
+shapesdata();
+
 

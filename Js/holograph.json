@@ -1,7 +1,7 @@
 {
     "products": [
       {
-        "img": "/images/holog 1.jpg",
+        "img": "./images/holog 1.jpg",
         "name":"Coffin Pink Nails",  
         "description": "Coffin pink nails combine the timeless elegance of the coffin shape with the soft femininity of pink hues, creating a chic and sophisticated manicure option"
       },
@@ -11,12 +11,12 @@
         "description":"Coffin pink nails combine the timeless elegance of the coffin shape with the soft femininity of pink and sophisticated manicure option."
       },
       {
-        "img": "/images/holog 2.jpg",
+        "img": "./images/holog 2.jpg",
         "name":"Purple Pink Nails",
         "description":"Purple pink nails offer a captivating fusion of two stunning hues, blending the regal sophistication of purple with the playful vibrancy of pink."
       },
       {
-        "img": "/images/holog 4.jpg",
+        "img": "./images/holog 4.jpg",
         "name":"Metallic Nails",
         "description": "Metallic nails offer a bold and glamorous twist on traditional manicures, infusing your fingertips with a touch of shimmer and shine."
       }
@@ -27,38 +27,38 @@
         "description": "Chrome pink nails combine the boldness of pink with the sleek and metallic shine of chrome finish, creating a striking and eye-catching manicure option."
       },
       {
-        "img": "/images/holog 6.jpg",
+        "img": "./images/holog 6.jpg",
         "name":"Fairy Dust Nails",
         "description": "Fairy dust nails evoke a whimsical and enchanting aesthetic, reminiscent of magical realms and ethereal beauty."
       },
       {
-        "img": "/images/holog 7.jpg",
+        "img": "./images/holog 7.jpg",
         "name":"Nothern Light Nails",
         "description": "Northern lights nails capture the breathtaking beauty of the aurora borealis, translating its shimmering hues into a stunning manicure."
       },
       {
-        "img": "/images/holog 8.jpg",
+        "img": "./images/holog 8.jpg",
         "name":"Chrome Purples Nails",
         "description": "Chrome purple nails offer a luxurious and high-fashion manicure option, combining the boldness of purple with the sleekness of chrome finish."
       }
       ,
       {
-        "img": "/images/holog 9.jpg",
+        "img": "./images/holog 9.jpg",
         "name":"Shattered Glass Nails",
         "description": "Shattered glass nails create a mesmerizing and multidimensional effect that mimics the look of shattered glass fragments embedded into the nail."
       },
       {
-        "img": "/images/holog 14.jpg",
+        "img": "./images/holog 14.jpg",
         "name":"Crystal Lover Nails",
         "description": "Crystal lover nails embody a deep appreciation for the beauty and elegance of crystals, translating their captivating allure into stunning manicure designs."
       },
       {
-        "img": "/images/holog 11.jpg",
+        "img": "./images/holog 11.jpg",
         "name":"Zoeve Acrylic Nails",
         "description": "Zoeve acrylic nails offer a premium and versatile option for those seeking long-lasting and customizable manicures."
       },
       {
-        "img": "/images/holog 13.jpg",
+        "img": "./images/holog 13.jpg",
         "name":"Magical unicorn nails",
         "description": "Magical unicorn nails capture the enchanting essence of mythical creatures with whimsical and vibrant designs that evoke a sense of fantasy and wonder."
       }

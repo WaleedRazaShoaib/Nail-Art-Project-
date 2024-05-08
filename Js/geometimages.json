@@ -6,17 +6,17 @@
         "description": "Matte blue nails offer a chic and modern twist on classic blue hues, boasting a velvety finish that exudes sophistication and style."
       },
       {
-        "img": "/images/geomet 8.jpg",
+        "img": "./images/geomet 8.jpg",
         "name":"Royals Purples Nails",
         "description": "Make a majestic statement with royal purple nails, channeling strength and grace with every impeccably polished fingertip."
       },
       {
-        "img": "/images/geomet 3.jpg",
+        "img": "./images/geomet 3.jpg",
         "name":"Febuary Nails",
         "description": "February nails capture the essence of romance and warmth, with soft hues and delicate designs reflecting the season of love."
       },
       {
-        "img": "/images/geomet 6.jpg",
+        "img": "./images/geomet 6.jpg",
         "name":"Abstract Pinks Nails",
         "description": "Abstract pink nails redefine femininity with avant-garde flair, blending soft hues  patterns for a captivating manicure."
       }
@@ -27,38 +27,38 @@
         "description": "Geometric ombre nails offer a modern twist to classic ombre designs, incorporating sleek lines  for a contemporary edge   "
       },
       {
-        "img": "/images/geomet 14.jpg",
+        "img": "./images/geomet 14.jpg",
         "name":"Checkmate Color Nails",
         "description": "Checkmate nails are the epitome of chic sophistication, featuring intricate checkerboard patterns that exude a timeless charm."
       },
       {
-        "img": "/images/geomet 2.jpg",
+        "img": "./images/geomet 2.jpg",
         "name":"Bright Blue Nails ",
         "description": "Bright blue nails exude a captivating charm, adding a pop of vibrant color to your fingertips and brightening gorgious in  any look."
       },
       {
-        "img": "/images/geomet 1.jpg",
+        "img": "./images/geomet 1.jpg",
         "name":"Yagala Nails ",
         "description": "Yagala nails bring forth a fusion of elegance and innovation, transforming your nails into exquisite works of arts and beauty looks."
       }
       ,
       {
-        "img": "/images/geomet 7.jpg",
+        "img": "./images/geomet 7.jpg",
         "name":"Trans Pride Nails",
         "description": " Trains pride nails celebrate the vibrant diversity of the bold colors and symbolic designs, embodying strength, unity, and resilience.."
       },
       {
-        "img": "/images/geomet 10.jpg",
+        "img": "./images/geomet 10.jpg",
         "name":"Manifest Blue Nails",
         "description": "Manifest blue nails channel the power of intention and self-expression, infusing each stroke with purpose and meaning."
       },
       {
-        "img": "/images/geomet 11.jpg",
+        "img": "./images/geomet 11.jpg",
         "name":"Stuning Orange Nails",
         "description": "Stunning orange nails radiate warmth and vibrancy, capturing attention with their bold and energetic hue."
       },
       {
-        "img": "/images/geomet 12.jpg",
+        "img": "./images/geomet 12.jpg",
         "name":"Orange Curve Nails",
         "description": "Orange curve nails combine sleek design with a vibrant pop of color, featuring curved accents that add a modern twist to your manicure."
       }

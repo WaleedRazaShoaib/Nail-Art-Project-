@@ -11,54 +11,54 @@
         "description": " In this Ipsy manicure, nail artist Kristin Gardner attached tiny dried blooms to a glitter-ombre base."
       },
       {
-        "img": "/images/floral 3.jpg",
+        "img": "./images/floral 3.jpg",
         "name":"Rose Accents",
         "description": " Steal inspiration from your favorite blue china and decorate an accent nail or two with delicate roses."
       },
       {
-        "img": "/images/floral 4.jpg",
+        "img": "./images/floral 4.jpg",
         "name":"Artsy Buds",
         "description": "This Laura Ashley-inspired floral nail design would be perfect with a summery white super-pale pink dress. "
       }
       ,
       {
-        "img": "/images/floral 5.jpg",
+        "img": "./images/floral 5.jpg",
         "name":"Multicolored Blooms",
         "description": " These alternating floral designs were inspired by the Mara Hoffman swimsuit line. With purple and pink floral nail bed."
       },
       {
-        "img": "/images/floral 6.jpg",
+        "img": "./images/floral 6.jpg",
         "name":"White Daisies",
         "description": " Nothing says spring quite like a bunch of daisies. Make them pop with a bright blue or base underneath Blue is a great choice."
       },
       {
-        "img": "/images/floral 7.jpg",
+        "img": "./images/floral 7.jpg",
         "name":"Nude Bouq.",
         "description" :"This vibrant design makes the subtle background anything . With an accented ring finger, it's on-trend and good, clean fun."
       },
       {
-        "img": "/images/floral 8.jpg",
+        "img": "./images/floral 8.jpg",
         "name":"Orchid Bursts",
         "description": "If you want a design that will really stand out, give this gorgeous fuchsia, white, and yellow pattern a go."
       }
       ,
       {
-        "img": "/images/floral 9.jpg",
+        "img": "./images/floral 9.jpg",
         "name":"Tiny Bouquets",
         "description": "you'll need a steady hand and a lot of patience. But these patterns created  form gorgeous flowers on your fingertips."
       },
       {
-        "img": "/images/floral 10.jpg",
+        "img": "./images/floral 10.jpg",
         "name":"Forest Florals",
         "description": "These forest green nails are decorated with delicate flowers and leaves, and they're perfect for that tricky summer to fall transition."
       },
       {
-        "img": "/images/floral 11.jpg",
+        "img": "./images/floral 11.jpg",
         "name":"Turquoise Blossoms",
         "description": "The cool thing about nail art is that by switching it up just a little bit, it can change your whole look it looks gorgeous. "
       },
       {
-        "img": "/images/floral 12.png",
+        "img": "./images/floral 12.png",
         "name":"Minty Tips",
         "description": "Mint, a beloved summery pastel hue, gets a modern update with negative space nail art and a matte finish."
       }
