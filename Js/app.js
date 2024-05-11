@@ -23,17 +23,6 @@ showSlide(currentSlide);
 
 
 
-document.addEventListener("DOMContentLoaded", function () {
-    let navlinks = document.querySelectorAll("#Navbar .nav-link");
-    let currentpage = window.location.pathname.split('/').pop();
-    //loop
-    navlinks.forEach(function (link) {
-        //remove active class
-        link.classList.remove("active");
-        if (link.getAttribute('href') === currentpage) {
-            link.classList.add("active");
-        }
-    });
 
 
-})
+
