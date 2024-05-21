@@ -16,13 +16,11 @@
     object-fit: cover;
     width: 100% !important;
 }
-
 .collapse {
     background-color: #EFCEC9 !important;
     padding-left: 0% !important;
     padding-right: 0% !important;
 }
-
 .maindiv {
     position: relative;
     z-index: 1;
@@ -105,21 +103,17 @@
     display: none;
     transition: opacity 0.5s ease-in-out;
 }
-
 .slide.active {
     display: block;
 }
-
 .slide img {
     width: 100%;
     height: 100%;
 }
-
 h1 {
     font-size: 50px;
     font-weight: 700;
 }
-
 .slide-text {
     line-height: 45px;
     position: absolute;
@@ -181,12 +175,9 @@ h1 {
     animation-name: fadeInUp;
     -webkit-animation-name: fadeInUp;
 }
-
-
 .firsttext {
     color: #911439;
 }
-
 .textlinks {
     min-height: 0;
     height: 60vh;
