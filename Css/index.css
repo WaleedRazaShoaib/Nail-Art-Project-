@@ -4,14 +4,12 @@
     box-sizing: border-box;
 
 }
-
 .navbar {
     font-family: "Open Sans", sans-serif !important;
     background-color: #EFCEC9 !important;
     height: 90px;
     align-items: center !important;
 }
-
 #logo {
     margin-left: 40px;
     height: 80px;
